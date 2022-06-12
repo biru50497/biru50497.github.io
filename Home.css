@@ -1721,20 +1721,53 @@
     min-height: 349px;
   }
 
+  .u-section-8 .u-image-1 {
+    width: 139px;
+    height: 233px;
+    margin-top: 48px;
+    margin-right: 94px;
+  }
+
   .u-section-8 .u-layout-cell-2 {
     min-height: 349px;
+  }
+
+  .u-section-8 .u-image-2 {
+    width: 126px;
+    height: 152px;
+    margin-top: 115px;
   }
 
   .u-section-8 .u-layout-cell-3 {
     min-height: 349px;
   }
 
+  .u-section-8 .u-image-3 {
+    width: 160px;
+    height: 103px;
+    margin-top: 123px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
   .u-section-8 .u-layout-cell-4 {
     min-height: 349px;
   }
 
+  .u-section-8 .u-image-4 {
+    width: 140px;
+    height: 143px;
+    margin-top: 108px;
+  }
+
   .u-section-8 .u-layout-cell-5 {
     min-height: 349px;
+  }
+
+  .u-section-8 .u-image-5 {
+    width: 143px;
+    height: 159px;
+    margin-top: 131px;
   }
 }.u-section-9 .u-sheet-1 {
   min-height: 531px;
